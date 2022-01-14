@@ -32,7 +32,7 @@ Two drving forces of coastal processes are:
 
 * **Traction**
 
-![beach_profile](https://github.com/JerryLiu-96/JerryLiu-96.github.io/blob/main/image/beach_profile.gif "Beach Profile")
+![beach_profile](image/beach_profile.gif "Beach Profile")
 
 # See also:
 
